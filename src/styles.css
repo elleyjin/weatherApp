@@ -28,6 +28,10 @@ footer {
   border-bottom-right-radius: 30px;
 }
 
+footer a {
+  text-decoration: none;
+}
+
 #current-city {
   text-transform: capitalize;
 }
